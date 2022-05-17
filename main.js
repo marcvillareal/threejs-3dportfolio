@@ -1,7 +1,7 @@
 // @ts-nocheck
 import "./style.css";
 
-import * as THREE from "https://unpkg.com/three@0.138.0/build/three.module.js";
+import * as THREE from "https://cdn.skypack.dev/pin/three@v0.132.2-dLPTyDAYt6rc6aB18fLm/mode=imports/optimized/three.js";
 
 import { OrbitControls } from "https://unpkg.com/three@0.138.0/examples/jsm/controls/OrbitControls.js";
 
